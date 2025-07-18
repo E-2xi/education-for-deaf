@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="500" src="media/logo-for-EoD.png" alt="Education for Deaf">
+	<img width="500" height="500" src="media/logo-for-EoD-update.png" alt="Education for Deaf">
 	<br>
 	<br>
 	<br>
