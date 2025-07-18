@@ -10,7 +10,7 @@
 		<h2>
 			<a href="https://github.com/E-2xi/free-education-for-deaf">Free Education for Deaf</a>
 			<br>
-			<sup>Go to learning without limit</sup>
+			<sup>Go to learn without limit</sup>
 		</h2>
 	</div>
 	<br>
@@ -18,3 +18,5 @@
 	<br>
 	<br>
 </div>
+
+## Contents 
