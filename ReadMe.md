@@ -21,11 +21,11 @@
 
 ## Contents 
 - [For Elementary students](#for-elementary-students)
-- [For Middle students]
-- [For High students]
-- [Deaf resources]
-- [Deaf Education]
-- [Higher Education]
+- [For Middle students](#for-middle-students)
+- [For High students](#for-high-students)
+- [Deaf resources](#deaf-resources)
+- [Deaf Education](#deaf-education)
+- [Higher Education](#higher-education)
 
 ## For Elementary students
 
