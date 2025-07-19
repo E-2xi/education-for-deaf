@@ -24,6 +24,7 @@
 - [For Middle students](#for-middle-students)
 - [For High students](#for-high-students)
 - [Deaf resources](#deaf-resources)
+- [Deaf Services](#deaf-services)
 - [Deaf Education](#deaf-education)
 - [Higher Education](#higher-education)
 
@@ -42,8 +43,11 @@
 ### Finance  
 -[Financial Literacy in American Sign Language (FYIFI)](fyifi.org) - This organization provides Financial Literacy in ASL within guide to be successful in Finance. 
 
-### further discover more deaf resources
+### Further discover more deaf resources
 -[Browse the index of deaf resources](https://tndeaflibrary.nashville.gov/resources/browse-index)
+
+## Deaf services
+
 ## Deaf Education 
 
 ## Higher Education 
