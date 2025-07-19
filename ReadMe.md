@@ -30,13 +30,20 @@
 ## For Elementary students
 
 ### Math 
--[Math Concepts in ASL](https://www.youtube.com/watch?v=XCJXsJN0DBY&list=PL60GgJ-A96ix_5YaoxuZYSPljrrGbs_H6) - A professor at RIT who are deaf explains math concepts in highly accurate ASL 
+-[Math Concepts in ASL](https://www.youtube.com/watch?v=XCJXsJN0DBY&list=PL60GgJ-A96ix_5YaoxuZYSPljrrGbs_H6) - A professor at RIT/NTID who are deaf explains math concepts in highly accurate ASL.
+
+### English 
 ## For Middle students 
 
 ## For High students 
 
 ## Deaf resources 
 
+### Finance  
+-[Financial Literacy in American Sign Language (FYIFI)](fyifi.org) - This organization provides Financial Literacy in ASL within guide to be successful in Finance. 
+
+### further discover more deaf resources
+-[Browse the index of deaf resources](https://tndeaflibrary.nashville.gov/resources/browse-index)
 ## Deaf Education 
 
 ## Higher Education 
