@@ -20,7 +20,11 @@
 </div>
 
 ## Contents 
-- [For Elementary students]
+- [For Elementary students](#for-elementary-students)
 - [For Middle students]
 - [For High students]
 - [Deaf resources]
+- [Deaf Education]
+- [Higher Education]
+
+## For Elementary students
